@@ -6,7 +6,7 @@ I was recently working on the design and implementation of a two-armed Randomize
 
 ## Data 
 
-I generated a sample file of only the age and gender of those included in the trial. The intervention targeted children ages 3 -5 years old. The Sample data can be found on github [here](link to github page w/data). 
+I generated a sample file of only the age and gender of those included in the trial. The intervention targeted children ages 3 -5 years old. The Sample data can be found on github [here] (https://github.com/JonFain90/random_assignment/blob/master/Tips_Groups_sample.xlsx). 
 
 
 ```{r import packages, message=FALSE}
