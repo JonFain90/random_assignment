@@ -262,5 +262,5 @@ at$`C vs T2`  <- round(as.numeric(age_test3$p.value), 2)
 
 ```
 
-I should mention here that balance tests can be a bit controversial.For more information on this I would recommend reading Jan Vanhoves post on "Silly significance tests" [here](https://janhove.github.io/reporting/2014/09/26/balance-tests).
+I should mention here that balance tests can be a bit controversial. For more information on this I would recommend reading Jan Vanhoves post on "Silly significance tests" [here](https://janhove.github.io/reporting/2014/09/26/balance-tests).
 
