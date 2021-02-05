@@ -251,7 +251,7 @@ at$`C vs T2`  <- round(as.numeric(age_test3$p.value), 2)
   
   
   kable(at,
-    caption = "<center><strong>Balance Test P-Values: Gender</strong></center>",
+    caption = "<center><strong>Balance Test P-Values: Age</strong></center>",
     escape = F,
     align = "c") %>%
   kable_styling(bootstrap_options = "striped",
