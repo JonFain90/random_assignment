@@ -44,8 +44,8 @@ kable(gender_table, col.names = c("Gender", "Prop")) %>%
 
 | Gender | Prop |                       
 | -----| ------|
-| F  | .051  |
-| M | .049  |
+| F  | .51  |
+| M | .49  |
 
 
 
@@ -62,8 +62,8 @@ kable(age_table, col.names = c("Age", "Prop")) %>%
 ```
 | Age | Prop |       
 | ---- | ---- |
-| 3  | .0.03  |
-| 4 | .0.14  |
+| 3  | 0.03  |
+| 4 | 0.14  |
 | 5 | 0.82 |
 
 ## Random Assignment 
